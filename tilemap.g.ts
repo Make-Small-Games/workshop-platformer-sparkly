@@ -9,8 +9,6 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const tile8 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile5 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
     export const tile14 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile12 = image.ofBuffer(hex``);
@@ -26,6 +24,8 @@ namespace myTiles {
     export const tile6 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile3 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile5 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile9 = image.ofBuffer(hex``);
 
@@ -101,8 +101,6 @@ namespace myTiles {
             case "tile10":return tile10;
             case "Trigger Tile":
             case "tile8":return tile8;
-            case "Player Spawn Tile":
-            case "tile5":return tile5;
             case "Ground 6 Tile":
             case "tile14":return tile14;
             case "Ground 4 Tile":
@@ -119,6 +117,8 @@ namespace myTiles {
             case "tile6":return tile6;
             case "Power Up Tile":
             case "tile3":return tile3;
+            case "Player Spawn Tile":
+            case "tile5":return tile5;
             case "Goal Tile":
             case "tile9":return tile9;
         }

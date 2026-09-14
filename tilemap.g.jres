@@ -22,12 +22,6 @@
         "tilemapTile": true,
         "displayName": "Trigger Tile"
     },
-    "tile5": {
-        "data": "hwQQABAAAAAAAAAAAABQVQAAAAAAAFBVAAAAAAAAUFUAAAAAAABQVQAAAAAAAFBVAAAAAAAAUFUAAAAAAABQVQAAAAAAAFBVAAAAAAAAUFUAAAAAAABQVQAAAAAAAFBVAAAAAAAAUFUAAAAAAABQVQAAAAAAAFBVAAAAAAAAUFUAAAAAAABQVQ==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "Player Spawn Tile"
-    },
     "tile14": {
         "data": "hwQQABAAAADd3d3d0d3d3d0d3d3d3d3d3RHR3d3d3dHdHd3d3d3d3d3d3d29293d3d3d3b3b3d3d3d3d3d3d3d3d3d3d3d3d3b3d3d3d3d3d3d3d3d3d3d3d3d3d3dvd3d3d0d3d3d3d3d3dbd3d3d3W3WZ91m3WZmdtZ3Z2bWd3d3d3d3d3dw==",
         "mimeType": "image/x-mkcd-f4",
@@ -76,8 +70,14 @@
         "tilemapTile": true,
         "displayName": "Power Up Tile"
     },
+    "tile5": {
+        "data": "hwQQABAAAAAAACIiIiIiEgAgRERERBQRAEJVVVVVEREgVHd3d3cXESBUl5mZmRkRQnWpqqqqqhFCdakAAAAQEUJ1qQAAABARQnWpAAAAABFCdakAAAAAEUJ1qaqqqhoRIFSXmZmZmREgVHd3d3d3EQBCVVVVVRURACBEREREFBEAACIiIiIREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Player Spawn Tile"
+    },
     "tile9": {
-        "data": "hwQQABAAAAAAAAAAACIiIgAAAAAgQkREAAAAACJEVVUAAAAgQlR1dwAAACBEVXeIAAAAIlR1hwgAAAAiVHeIAAAAACJUhwgAAAAAIlSHCAAAAAAiVHeIAAAAACJUdYcIAAAAIERVd4gAAAAgQlR1dwAAAAAiRFVVAAAAACBCREQAAAAAACIiIg==",
+        "data": "hwQQABAAAAAAACIiIiIiIgAgREREREREAEJVVVVVVVUgVHd3d3d3dyBUl5mZmVmZQnWpqqqqVaVCdakAUABQAEJ1qQBVBQAAQnWpAFAAAABCdakAAABQAEJ1qaqqqlWlIFSXmZmZWZkgVHd3d3d3dwBCVVVVVVVVACBEREREREQAACIiIiIiIg==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "Goal Tile"
